@@ -1,2 +1,3 @@
 # ignorar um arquivo específico
 .vagrant
+.vagrant/rgloader/loader.rb
